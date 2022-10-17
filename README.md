@@ -1,11 +1,12 @@
 # Portfólio: Luana Giusto
 
-Olá! 
+Olá! :blush: 
 
 Este projeto foi desenvolvido baseado no [Desafio RocketSeat - Portfólio](https://app.rocketseat.com.br/discover/challenges/portfolio). Assim, desafiei-me a desenvolver meu portfólio com  [Angular CLI](https://github.com/angular/angular-cli) versão 14.1.3.
 
+As atualizações serão contínuas conforme meus estudos e projetos desenvolvidos.
 
-
+____
 
 ### Development server
 
